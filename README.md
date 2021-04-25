@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+This project is hosted on Netlify
+Open [https://zealous-volhard-b66cb8.netlify.app/](https://zealous-volhard-b66cb8.netlify.app/) to view it in the browser.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
